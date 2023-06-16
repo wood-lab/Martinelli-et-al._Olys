@@ -1,0 +1,997 @@
+﻿population,old oyster#,site,replicate/level,oyster#,species,valve,x,y,z,worms,blisters
+Recent F,1,site 1,replicate 1,1,Ostrea lurida,r,2.7,3.8,0.3,0,0
+Recent F,2,site 1,replicate 1,2,Ostrea lurida,r,2.7,3.6,0.3,0,0
+Recent F,3,site 1,replicate 1,3,Ostrea lurida,r,2.6,3.9,0.2,0,0
+Recent F,4,site 1,replicate 1,4,Ostrea lurida,r,3.2,4.2,0.6,0,0
+Recent F,5,site 1,replicate 1,5,Ostrea lurida,r,2.8,3.8,0.7,0,0
+Recent F,6,site 1,replicate 1,6,Ostrea lurida,r,2.8,4.3,0.6,0,0
+Recent F,16,site 1,replicate 2,7,Ostrea lurida,r,2.5,3.4,0.4,0,0
+Recent F,17,site 1,replicate 2,8,Ostrea lurida,r,2.1,2.3,0.4,0,0
+Recent F,18,site 1,replicate 2,9,Ostrea lurida,r,3.2,4,0.6,0,0
+Recent F,19,site 1,replicate 2,10,Ostrea lurida,r,2.2,3.2,0.6,0,0
+Recent F,25,site 1,replicate 3,11,Ostrea lurida,r,2.6,3.5,0.3,1,0
+Recent F,26,site 1,replicate 3,12,Ostrea lurida,r,2.7,4.1,0.4,1,0
+Recent F,27,site 1,replicate 3,13,Ostrea lurida,r,2.2,3.3,0.2,0,0
+Recent F,28,site 1,replicate 3,14,Ostrea lurida,r,2.2,2.7,0.2,0,0
+Recent F,43,site 1,replicate 4,15,Ostrea lurida,r,2.6,3.9,0.3,0,0
+Recent F,44,site 1,replicate 4,16,Ostrea lurida,r,2.9,4.4,0.3,0,0
+Recent F,45,site 1,replicate 4,17,Ostrea lurida,r,3.2,3.7,0.2,0,0
+Recent F,46,site 1,replicate 4,18,Ostrea lurida,r,1.7,2.5,0.3,0,0
+Recent F,47,site 1,replicate 4,19,Ostrea lurida,r,2.2,3.1,0.2,0,0
+Recent F,48,site 1,replicate 4,20,Ostrea lurida,r,1.5,2,0.2,0,0
+Recent F,49,site 1,replicate 4,21,Ostrea lurida,r,2.2,2.3,0.2,0,0
+Recent F,50,site 1,replicate 4,22,Ostrea lurida,r,2.6,3.3,0.2,0,0
+Recent F,51,site 1,replicate 4,23,Ostrea lurida,r,2,1.7,0.2,0,0
+Recent F,52,site 1,replicate 4,24,Ostrea lurida,r,2.5,3.2,0.2,0,0
+Recent F,53,site 1,replicate 4,25,Ostrea lurida,r,2.4,2.9,0.2,0,0
+Recent F,54,site 1,replicate 4,26,Ostrea lurida,r,2.9,4,0.3,0,0
+Recent F,55,site 1,replicate 4,27,Ostrea lurida,r,3.1,4.4,0.3,1,1
+Recent F,56,site 1,replicate 4,28,Ostrea lurida,r,1.8,1.7,0.2,1,0
+Recent F,57,site 1,replicate 4,29,Ostrea lurida,r,2.2,3.3,0.2,1,0
+Recent F,58,site 1,replicate 4,30,Ostrea lurida,r,2.8,4.9,0.4,1,0
+Recent F,59,site 1,replicate 4,31,Ostrea lurida,r,2.6,3.5,0.4,1,0
+Recent F,60,site 1,replicate 4,32,Ostrea lurida,r,2.9,3.9,0.4,1,1
+Recent F,61,site 1,replicate 4,33,Ostrea lurida,r,2.2,3.4,0.45,0,0
+Recent F,7,site 1,replicate 1,34,Ostrea lurida,l,3.4,4.5,0.8,0,0
+Recent F,8,site 1,replicate 1,35,Ostrea lurida,l,3.7,4.4,0.8,1,1
+Recent F,9,site 1,replicate 1,36,Ostrea lurida,l,3.3,4.1,1,0,0
+Recent F,10,site 1,replicate 1,37,Ostrea lurida,l,3,3.9,1.1,0,0
+Recent F,11,site 1,replicate 1,38,Ostrea lurida,l,3.5,4.2,0.7,0,0
+Recent F,20,site 1,replicate 2,39,Ostrea lurida,l,3.4,4.3,0.8,0,0
+Recent F,21,site 1,replicate 3,40,Ostrea lurida,l,2.7,4,0.9,1,0
+Recent F,22,site 1,replicate 3,41,Ostrea lurida,l,2.4,4.1,0.9,0,0
+Recent F,23,site 1,replicate 3,42,Ostrea lurida,l,3,3.9,0.7,0,0
+Recent F,24,site 1,replicate 3,43,Ostrea lurida,l,2.5,3.5,0.7,0,0
+Recent F,32,site 1,replicate 4,44,Ostrea lurida,l,3.2,4.3,0.7,0,0
+Recent F,33,site 1,replicate 4,45,Ostrea lurida,l,3,3.7,0.9,0,0
+Recent F,34,site 1,replicate 4,46,Ostrea lurida,l,1.7,2.1,0.6,0,0
+Recent F,35,site 1,replicate 4,47,Ostrea lurida,l,1.3,2.4,0.3,0,0
+Recent F,36,site 1,replicate 4,48,Ostrea lurida,l,3.5,4.1,0.5,0,0
+Recent F,37,site 1,replicate 4,49,Ostrea lurida,l,2.9,3.5,0.8,0,0
+Recent F,38,site 1,replicate 4,50,Ostrea lurida,l,3.3,4.8,0.7,1,0
+Recent F,39,site 1,replicate 4,51,Ostrea lurida,l,3.1,5,0.9,1,0
+Recent F,40,site 1,replicate 4,52,Ostrea lurida,l,2.6,3.4,0.5,1,0
+Recent F,41,site 1,replicate 4,53,Ostrea lurida,l,2.7,3.3,0.5,1,0
+Recent F,42,site 1,replicate 4,54,Ostrea lurida,l,2.7,3.5,0.7,1,0
+Recent F,4,site 2,replicate 1,55,Ostrea lurida,r,3.5,4.8,0.5,0,0
+Recent F,5,site 2,replicate 1,56,Ostrea lurida,r,3.5,4.8,0.6,0,0
+Recent F,6,site 2,replicate 1,57,Ostrea lurida,r,2.1,2.8,0.4,0,0
+Recent F,7,site 2,replicate 1,58,Ostrea lurida,r,2.8,3.8,0.4,0,0
+Recent F,8,site 2,replicate 1,59,Ostrea lurida,r,2.8,4.3,0.3,0,0
+Recent F,9,site 2,replicate 1,60,Ostrea lurida,r,2.2,3.6,0.4,0,0
+Recent F,10,site 2,replicate 1,61,Ostrea lurida,r,2.1,3,0.3,0,0
+Recent F,11,site 2,replicate 1,62,Ostrea lurida,r,2.2,3.6,0.2,0,0
+Recent F,12,site 2,replicate 1,63,Ostrea lurida,r,2,4,0.3,0,0
+Recent F,20,site 2,replicate 2,64,Ostrea lurida,r,4.1,4.7,0.6,0,0
+Recent F,21,site 2,replicate 2,65,Ostrea lurida,r,3,3.6,0.3,0,0
+Recent F,22,site 2,replicate 2,66,Ostrea lurida,r,3.5,4.4,0.3,0,0
+Recent F,23,site 2,replicate 2,67,Ostrea lurida,r,3.3,3.9,0.7,0,0
+Recent F,24,site 2,replicate 2,68,Ostrea lurida,r,2.1,3.8,0.4,0,0
+Recent F,25,site 2,replicate 2,69,Ostrea lurida,r,2.4,3.5,0.5,0,0
+Recent F,26,site 2,replicate 2,70,Ostrea lurida,r,3.1,4.3,0.3,0,0
+Recent F,34,site 2,replicate 3,71,Ostrea lurida,r,2.2,3.3,0.3,0,0
+Recent F,35,site 2,replicate 3,72,Ostrea lurida,r,2.7,2,0.3,0,0
+Recent F,36,site 2,replicate 3,73,Ostrea lurida,r,3.2,4.6,0.2,0,0
+Recent F,37,site 2,replicate 3,74,Ostrea lurida,r,2.5,4.5,0.2,0,0
+Recent F,38,site 2,replicate 3,75,Ostrea lurida,r,2.7,4.3,0.4,0,0
+Recent F,39,site 2,replicate 3,76,Ostrea lurida,r,1.7,2.8,0.2,0,0
+Recent F,40,site 2,replicate 3,77,Ostrea lurida,r,2.6,3.1,0.5,0,0
+Recent F,41,site 2,replicate 3,78,Ostrea lurida,r,2.2,3.4,0.4,0,0
+Recent F,45,site 2,replicate 3,79,Ostrea lurida,r,2.9,4.4,0.5,0,0
+Recent F,49,site 2,replicate 3,80,Ostrea lurida,r,1.5,1.4,0.3,0,0
+Recent F,77,site 2,replicate 4,81,Ostrea lurida,r,2.7,3.6,0.4,0,0
+Recent F,78,site 2,replicate 4,82,Ostrea lurida,r,2.5,3.3,1.2,0,0
+Recent F,79,site 2,replicate 4,83,Ostrea lurida,r,1.8,2.2,0.3,0,0
+Recent F,80,site 2,replicate 4,84,Ostrea lurida,r,3.6,4.2,0.5,0,0
+Recent F,81,site 2,replicate 4,85,Ostrea lurida,r,2.7,3.4,0.2,1,0
+Recent F,82,site 2,replicate 4,86,Ostrea lurida,r,3,4.2,0.4,0,0
+Recent F,83,site 2,replicate 4,87,Ostrea lurida,r,2.3,3.3,0.4,0,0
+Recent F,84,site 2,replicate 4,88,Ostrea lurida,r,3.1,3.9,0.5,0,0
+Recent F,85,site 2,replicate 4,89,Ostrea lurida,r,2.1,3,0.3,0,0
+Recent F,86,site 2,replicate 4,90,Ostrea lurida,r,1.9,2.7,0.2,0,0
+Recent F,87,site 2,replicate 4,91,Ostrea lurida,r,2.9,3.3,0.4,0,0
+Recent F,88,site 2,replicate 4,92,Ostrea lurida,r,2.4,3.3,0.3,0,0
+Recent F,1,site 2,replicate 1,93,Ostrea lurida,l,4.2,5.1,0.6,0,0
+Recent F,2,site 2,replicate 1,94,Ostrea lurida,l,2.2,3.9,1.3,0,0
+Recent F,3,site 2,replicate 1,95,Ostrea lurida,l,3,4,0.6,0,0
+Recent F,27,site 2,replicate 2,96,Ostrea lurida,l,3.1,3.9,0.9,0,0
+Recent F,28,site 2,replicate 2,97,Ostrea lurida,l,4,5.2,0.9,0,0
+Recent F,29,site 2,replicate 2,98,Ostrea lurida,l,3.8,4.8,1.1,0,0
+Recent F,30,site 2,replicate 2,99,Ostrea lurida,l,2.2,2.9,0.8,0,0
+Recent F,42,site 2,replicate 3,100,Ostrea lurida,l,3.2,5.1,0.7,0,0
+Recent F,43,site 2,replicate 3,101,Ostrea lurida,l,3.1,5.2,0.8,0,0
+Recent F,44,site 2,replicate 3,102,Ostrea lurida,l,4.1,4.5,0.7,0,0
+Recent F,46,site 2,replicate 3,103,Ostrea lurida,l,2.5,3.4,0.7,0,0
+Recent F,47,site 2,replicate 3,104,Ostrea lurida,l,2.6,4.7,1.1,0,0
+Recent F,48,site 2,replicate 3,105,Ostrea lurida,l,3,4.5,0.6,0,0
+Recent F,50,site 2,replicate 3,106,Ostrea lurida,l,2.5,2.9,0.4,0,0
+Recent F,62,site 2,replicate 4,107,Ostrea lurida,l,3.2,4.7,1,0,0
+Recent F,63,site 2,replicate 4,108,Ostrea lurida,l,3.9,4.5,0.8,0,0
+Recent F,64,site 2,replicate 4,109,Ostrea lurida,l,2.6,3.5,0.6,0,0
+Recent F,65,site 2,replicate 4,110,Ostrea lurida,l,2.4,3.9,0.6,0,0
+Recent F,66,site 2,replicate 4,111,Ostrea lurida,l,2.7,2.9,0.4,0,0
+Recent F,67,site 2,replicate 4,112,Ostrea lurida,l,2.3,3.1,0.6,0,0
+Recent F,68,site 2,replicate 4,113,Ostrea lurida,l,3.2,3.9,0.8,1,0
+Recent F,33,site 3,replicate 2,114,Ostrea lurida,l,2.6,3.3,0.4,1,0
+Recent F,34,site 3,replicate 2,115,Ostrea lurida,l,2.4,2.6,0.6,0,0
+Recent F,35,site 3,replicate 2,116,Ostrea lurida,l,2.5,3.6,0.6,1,0
+Recent F,36,site 3,replicate 2,117,Ostrea lurida,l,1.1,2.2,0.3,0,0
+Recent F,37,site 3,replicate 2,118,Ostrea lurida,l,2.1,2.7,0.5,0,0
+Recent F,38,site 3,replicate 2,119,Ostrea lurida,l,2.7,3.5,0.6,0,0
+Recent F,47,site 3,replicate 2,120,Ostrea lurida,l,2.7,3.7,0.5,1,0
+Recent F,48,site 3,replicate 2,121,Ostrea lurida,l,2.8,3.8,0.9,1,0
+Recent F,49,site 3,replicate 2,122,Ostrea lurida,l,2.6,3.4,0.8,1,0
+Recent F,50,site 3,replicate 2,123,Ostrea lurida,l,3.3,3,0.9,1,0
+Recent F,69,site 3,replicate 4,124,Ostrea lurida,l,2.8,3.8,0.7,0,0
+Recent F,70,site 3,replicate 4,125,Ostrea lurida,l,3.7,4.7,0.7,0,0
+Recent F,71,site 3,replicate 4,126,Ostrea lurida,l,2.3,3.5,0.7,1,0
+Recent F,72,site 3,replicate 4,127,Ostrea lurida,l,2.6,4.1,0.8,0,0
+Recent F,73,site 3,replicate 4,128,Ostrea lurida,l,3,4.2,1.2,1,0
+Recent F,74,site 3,replicate 4,129,Ostrea lurida,l,2.3,3.7,0.5,1,0
+Recent F,75,site 3,replicate 4,130,Ostrea lurida,l,2.5,3.5,0.8,1,0
+Recent F,76,site 3,replicate 4,131,Ostrea lurida,l,3.2,3.2,0.9,0,0
+Recent F,77,site 3,replicate 4,132,Ostrea lurida,l,2.1,3.7,0.4,1,1
+Recent F,78,site 3,replicate 4,133,Ostrea lurida,l,2.8,3.3,0.7,0,0
+Recent F,79,site 3,replicate 4,134,Ostrea lurida,l,2.3,3.5,0.6,1,0
+Recent F,80,site 3,replicate 4,135,Ostrea lurida,l,2.8,4.3,0.8,0,0
+Recent F,81,site 3,replicate 4,136,Ostrea lurida,l,2.5,3.1,0.5,0,0
+Recent F,82,site 3,replicate 4,137,Ostrea lurida,l,2.7,3.5,1,1,0
+Recent F,111,site 3,replicate 3,138,Ostrea lurida,l,3.1,3.9,0.8,0,0
+Recent F,112,site 3,replicate 3,139,Ostrea lurida,l,3.1,4.2,0.7,0,0
+Recent F,113,site 3,replicate 3,140,Ostrea lurida,l,3.3,4.5,1.3,0,0
+Recent F,114,site 3,replicate 3,141,Ostrea lurida,l,3.1,3.8,1.2,0,0
+Recent F,115,site 3,replicate 3,142,Ostrea lurida,l,2.3,3.2,1.1,0,0
+Recent F,116,site 3,replicate 3,143,Ostrea lurida,l,3,4.3,1.1,0,0
+Recent F,117,site 3,replicate 3,144,Ostrea lurida,l,3.2,4.5,1,0,0
+Recent F,118,site 3,replicate 3,145,Ostrea lurida,l,2.7,3.5,0.9,0,0
+Recent F,119,site 3,replicate 3,146,Ostrea lurida,l,3.2,4.3,0.9,0,0
+Recent F,120,site 3,replicate 3,147,Ostrea lurida,l,3.3,5,0.8,0,0
+Recent F,121,site 3,replicate 3,148,Ostrea lurida,l,1.6,2.4,0.6,0,0
+Recent F,165,site 3,replicate 1,149,Ostrea lurida,l,3.8,5.2,1.1,1,0
+Recent F,166,site 3,replicate 1,150,Ostrea lurida,l,3,3.9,0.7,1,0
+Recent F,167,site 3,replicate 1,151,Ostrea lurida,l,2.7,4.2,0.6,0,0
+Recent F,168,site 3,replicate 1,152,Ostrea lurida,l,2.7,3.5,1.2,1,0
+Recent F,169,site 3,replicate 1,153,Ostrea lurida,l,3.4,5.3,0.7,0,0
+Recent F,170,site 3,replicate 1,154,Ostrea lurida,l,3.2,4,0.7,1,0
+Recent F,171,site 3,replicate 1,155,Ostrea lurida,l,2.7,3.7,0.6,1,0
+Recent F,172,site 3,replicate 1,156,Ostrea lurida,l,2.9,4.2,1,0,0
+Recent F,173,site 3,replicate 1,157,Ostrea lurida,l,2.8,4.9,0.6,1,0
+Recent F,174,site 3,replicate 1,158,Ostrea lurida,l,2.4,3.2,0.6,1,1
+Recent F,175,site 3,replicate 1,159,Ostrea lurida,l,3,3.7,1.1,1,0
+Recent F,176,site 3,replicate 1,160,Ostrea lurida,l,2.2,3.2,0.4,0,0
+Recent F,177,site 3,replicate 1,161,Ostrea lurida,l,2.6,4.2,0.4,0,0
+Recent F,178,site 3,replicate 1,162,Ostrea lurida,l,2.4,3.3,0.8,1,1
+Recent F,179,site 3,replicate 1,163,Ostrea lurida,l,2.8,4.2,0.9,0,0
+Recent F,180,site 3,replicate 1,164,Ostrea lurida,l,1.8,2.9,0.3,0,0
+Recent F,181,site 3,replicate 1,165,Ostrea lurida,l,2.5,2.8,0.5,1,0
+Recent F,182,site 3,replicate 1,166,Ostrea lurida,l,3,3.8,0.8,1,0
+Recent F,183,site 3,replicate 1,167,Ostrea lurida,l,2.6,3.3,0.5,0,0
+Recent F,184,site 3,replicate 1,168,Ostrea lurida,l,1.8,2,0.3,1,0
+Recent F,1,site 4,replicate 9,169,Ostrea lurida,l,3.9,5.3,1.1,0,0
+Recent F,2,site 4,replicate 9,170,Ostrea lurida,l,4.1,5.7,0.7,0,0
+Recent F,3,site 4,replicate 9,171,Ostrea lurida,l,2.9,4.8,1,1,1
+Recent F,4,site 4,replicate 9,172,Ostrea lurida,l,3,4.1,0.6,1,0
+Recent F,5,site 4,replicate 9,173,Ostrea lurida,l,2.9,4.8,0.7,0,0
+Recent F,6,site 4,replicate 9,174,Ostrea lurida,l,3.7,4.6,0.7,0,0
+Recent F,7,site 4,replicate 9,175,Ostrea lurida,l,3.4,4.1,0.7,0,0
+Recent F,8,site 4,replicate 9,176,Ostrea lurida,l,3.3,3.8,0.7,0,0
+Recent F,9,site 4,replicate 9,177,Ostrea lurida,l,2.7,3.7,0.8,0,0
+Recent F,10,site 4,replicate 9,178,Ostrea lurida,l,2.3,3.5,0.6,0,0
+Recent F,11,site 4,replicate 9,179,Ostrea lurida,l,2.9,3.3,0.4,0,0
+Recent F,12,site 4,replicate 9,180,Ostrea lurida,l,2.4,3.4,0.7,0,0
+Recent F,13,site 4,replicate 9,181,Ostrea lurida,l,2.9,4.1,0.7,0,0
+Recent F,14,site 4,replicate 9,182,Ostrea lurida,l,3,3.9,0.3,0,0
+Recent F,15,site 4,replicate 9,183,Ostrea lurida,l,2.6,4.3,0.8,0,0
+Recent F,16,site 4,replicate 9,184,Ostrea lurida,l,3.1,3.8,0.5,0,0
+Recent F,41,site 4,replicate 1,185,Ostrea lurida,l,2.5,4.3,0.7,1,0
+Recent F,42,site 4,replicate 1,186,Ostrea lurida,l,2,2.8,0.4,1,0
+Recent F,43,site 4,replicate 1,187,Ostrea lurida,l,3.7,4.2,0.7,1,0
+Recent F,44,site 4,replicate 1,188,Ostrea lurida,l,1.5,3.6,0.5,0,0
+Recent F,45,site 4,replicate 1,189,Ostrea lurida,l,2.9,2.5,0.4,0,0
+Recent F,46,site 4,replicate 1,190,Ostrea lurida,l,3.3,4.5,1,0,0
+Recent F,47,site 4,replicate 1,191,Ostrea lurida,l,3.2,4.4,0.5,0,0
+Recent F,48,site 4,replicate 1,192,Ostrea lurida,l,2.9,4.1,0.9,0,0
+Recent F,49,site 4,replicate 1,193,Ostrea lurida,l,3.3,4.9,0.7,0,0
+Recent F,66,site 4,replicate 2,194,Ostrea lurida,l,3.1,4.3,1,0,0
+Recent F,67,site 4,replicate 2,195,Ostrea lurida,l,3.5,4.3,1.1,0,0
+Recent F,68,site 4,replicate 2,196,Ostrea lurida,l,2.2,4,0.6,0,0
+Recent F,69,site 4,replicate 2,197,Ostrea lurida,l,2,3.9,0.7,0,0
+Recent F,70,site 4,replicate 2,198,Ostrea lurida,l,2.7,3.2,0.7,0,0
+Recent F,71,site 4,replicate 2,199,Ostrea lurida,l,3.2,4,0.7,0,0
+Recent F,72,site 4,replicate 2,200,Ostrea lurida,l,2.5,3.7,0.7,1,0
+Recent F,73,site 4,replicate 2,201,Ostrea lurida,l,2.9,3.6,1,1,0
+Recent F,74,site 4,replicate 2,202,Ostrea lurida,l,2.9,4,1,1,0
+Recent F,75,site 4,replicate 2,203,Ostrea lurida,l,2.7,3.2,0.8,1,0
+Recent F,76,site 4,replicate 2,204,Ostrea lurida,l,2.4,3.5,1,1,1
+Recent F,77,site 4,replicate 2,205,Ostrea lurida,l,3.2,4.3,1,1,1
+Recent F,101,site 4,replicate 3,206,Ostrea lurida,l,2.3,3.2,0.6,0,0
+Recent F,102,site 4,replicate 3,207,Ostrea lurida,l,2.3,4,0.8,1,0
+Recent F,103,site 4,replicate 3,208,Ostrea lurida,l,2.8,3.7,0.7,1,0
+Recent F,104,site 4,replicate 3,209,Ostrea lurida,l,2.6,3.2,0.9,1,0
+Recent F,105,site 4,replicate 3,210,Ostrea lurida,l,2.1,3.4,0.8,1,0
+Recent F,106,site 4,replicate 3,211,Ostrea lurida,l,2.7,3.8,0.9,0,0
+Recent F,107,site 4,replicate 3,212,Ostrea lurida,l,3,3.8,0.8,1,0
+Recent F,108,site 4,replicate 3,213,Ostrea lurida,l,3,3.7,1,1,0
+Recent F,109,site 4,replicate 3,214,Ostrea lurida,l,3.4,4.6,0.9,1,0
+Recent F,144,site 4,replicate 4,215,Ostrea lurida,l,2.7,3.8,0.9,0,0
+Recent F,145,site 4,replicate 4,216,Ostrea lurida,l,3.2,4.2,0.7,0,0
+Recent F,146,site 4,replicate 4,217,Ostrea lurida,l,2.8,4.6,1,0,0
+Recent F,147,site 4,replicate 4,218,Ostrea lurida,l,2.4,3.8,0.9,0,0
+Recent F,148,site 4,replicate 4,219,Ostrea lurida,l,3.1,3.8,0.6,1,0
+Recent F,149,site 4,replicate 4,220,Ostrea lurida,l,2.8,4,1,1,0
+Recent F,150,site 4,replicate 4,221,Ostrea lurida,l,3.9,5.2,1.2,1,0
+Recent F,151,site 4,replicate 4,222,Ostrea lurida,l,3,4.1,0.8,1,0
+Recent F,152,site 4,replicate 4,223,Ostrea lurida,l,2.7,4,1.1,1,1
+Recent F,153,site 4,replicate 4,224,Ostrea lurida,l,2.9,3.7,0.6,1,0
+Recent F,154,site 4,replicate 4,225,Ostrea lurida,l,3.7,2.7,0.4,1,0
+Recent F,155,site 4,replicate 4,226,Ostrea lurida,l,3,4.2,0.4,1,1
+Recent F,156,site 4,replicate 4,227,Ostrea lurida,l,2.3,3,0.7,0,0
+Recent F,157,site 4,replicate 4,228,Ostrea lurida,l,2.9,3.4,0.8,1,0
+Recent F,158,site 4,replicate 4,229,Ostrea lurida,l,3.2,4.2,1.1,1,0
+Recent F,178,site 4,replicate 5,230,Ostrea lurida,l,2.6,3.5,0.6,0,0
+Recent F,179,site 4,replicate 5,231,Ostrea lurida,l,3,3.9,1,1,0
+Recent F,180,site 4,replicate 5,232,Ostrea lurida,l,3.2,4.6,1,1,0
+Recent F,181,site 4,replicate 5,233,Ostrea lurida,l,2.2,3.4,0.7,1,0
+Recent F,182,site 4,replicate 5,234,Ostrea lurida,l,3.5,4.8,0.5,1,0
+Recent F,183,site 4,replicate 5,235,Ostrea lurida,l,2.8,3.9,1,1,0
+Recent F,200,site 4,replicate 6,236,Ostrea lurida,l,3.3,5.1,0.9,1,0
+Recent F,201,site 4,replicate 6,237,Ostrea lurida,l,3.3,5.3,0.7,1,0
+Recent F,202,site 4,replicate 6,238,Ostrea lurida,l,3,3.9,0.7,1,0
+Recent F,203,site 4,replicate 6,239,Ostrea lurida,l,2.2,4.6,0.6,1,0
+Recent F,204,site 4,replicate 6,240,Ostrea lurida,l,3,3.8,1.1,1,0
+Recent F,205,site 4,replicate 6,241,Ostrea lurida,l,3.3,4.5,1.2,0,0
+Recent F,206,site 4,replicate 6,242,Ostrea lurida,l,3.7,4.6,0.8,0,0
+Recent F,207,site 4,replicate 6,243,Ostrea lurida,l,2.2,3.6,0.5,0,0
+Recent F,208,site 4,replicate 6,244,Ostrea lurida,l,3,4.1,0.5,0,0
+Recent F,226,site 4,replicate 7,245,Ostrea lurida,l,3.2,4.1,1,0,0
+Recent F,227,site 4,replicate 7,246,Ostrea lurida,l,2.8,3.5,0.7,0,0
+Recent F,228,site 4,replicate 7,247,Ostrea lurida,l,2.5,3.8,0.6,0,0
+Recent F,229,site 4,replicate 7,248,Ostrea lurida,l,3,4.3,0.8,0,0
+Recent F,230,site 4,replicate 7,249,Ostrea lurida,l,1.6,2.4,0.5,0,0
+Recent F,231,site 4,replicate 7,250,Ostrea lurida,l,,,,0,0
+Recent F,232,site 4,replicate 7,251,Ostrea lurida,l,3.3,4.3,1,1,0
+Recent F,233,site 4,replicate 7,252,Ostrea lurida,l,2.4,3.3,1.2,1,0
+Recent F,234,site 4,replicate 7,253,Ostrea lurida,l,3.4,4.3,1,1,0
+Recent F,235,site 4,replicate 7,254,Ostrea lurida,l,2.6,3.8,1,1,0
+Recent F,236,site 4,replicate 7,255,Ostrea lurida,l,3.2,4.7,0.8,1,0
+Recent F,237,site 4,replicate 7,256,Ostrea lurida,l,2.8,4,0.6,1,0
+Recent F,238,site 4,replicate 7,257,Ostrea lurida,l,2.4,3.3,0.6,1,0
+Recent F,239,site 4,replicate 7,258,Ostrea lurida,l,3.5,4.3,0.9,1,0
+Recent F,240,site 4,replicate 7,259,Ostrea lurida,l,2.5,4.6,1.1,1,1
+Recent F,241,site 4,replicate 7,260,Ostrea lurida,l,2.5,2.8,1,1,0
+Recent F,262,site 4,replicate 8,261,Ostrea lurida,l,2.9,3.8,0.8,1,0
+Recent F,263,site 4,replicate 8,262,Ostrea lurida,l,3.2,4.5,1,1,0
+Recent F,264,site 4,replicate 8,263,Ostrea lurida,l,2.8,3.5,0.8,1,0
+Recent F,265,site 4,replicate 8,264,Ostrea lurida,l,2.6,3.6,0.7,1,0
+Recent F,266,site 4,replicate 8,265,Ostrea lurida,l,2.7,3.5,1.3,1,1
+Recent F,267,site 4,replicate 8,266,Ostrea lurida,l,2.5,3.6,0.6,1,0
+Recent F,268,site 4,replicate 8,267,Ostrea lurida,l,2.5,3.3,1,1,0
+Recent F,269,site 4,replicate 8,268,Ostrea lurida,l,2.7,3.8,1.2,1,0
+Recent F,287,site 4,replicate 10,269,Ostrea lurida,l,3.1,4.5,1,0,0
+Recent F,288,site 4,replicate 10,270,Ostrea lurida,l,3.3,4.5,0.9,0,0
+Recent F,289,site 4,replicate 10,271,Ostrea lurida,l,2.9,3.1,0.6,0,0
+Recent F,290,site 4,replicate 10,272,Ostrea lurida,l,3,4.6,1,0,0
+Recent F,291,site 4,replicate 10,273,Ostrea lurida,l,2.9,4.3,0.6,0,0
+Recent F,292,site 4,replicate 10,274,Ostrea lurida,l,2.8,4.6,1.1,0,0
+Recent F,293,site 4,replicate 10,275,Ostrea lurida,l,2.9,3.6,0.9,0,0
+Recent F,294,site 4,replicate 10,276,Ostrea lurida,l,3.1,5,1,0,0
+Recent F,295,site 4,replicate 10,277,Ostrea lurida,l,3.6,4.7,1.2,0,0
+Recent F,296,site 4,replicate 10,278,Ostrea lurida,l,3.2,4.2,0.5,0,0
+Recent F,297,site 4,replicate 10,279,Ostrea lurida,l,3.2,4.5,0.8,1,0
+Recent F,298,site 4,replicate 10,280,Ostrea lurida,l,2.8,4,1.2,0,0
+Recent F,299,site 4,replicate 10,281,Ostrea lurida,l,2.9,4.2,0.8,1,0
+Recent F,300,site 4,replicate 10,282,Ostrea lurida,l,2.9,4.2,0.9,1,0
+Recent F,301,site 4,replicate 10,283,Ostrea lurida,l,3.5,4.1,0.9,1,0
+Recent F,302,site 4,replicate 10,284,Ostrea lurida,l,2.8,5,1,1,0
+Recent F,303,site 4,replicate 10,285,Ostrea lurida,l,2.8,4.1,1.2,0,0
+Recent F,304,site 4,replicate 10,286,Ostrea lurida,l,3.1,4.6,0.8,1,0
+Modern,m1,site 1,replicate 1,1,Ostrea lurida,r,2.5,2.9,0.4,0,0
+Modern,m2,site 1,replicate 1,2,Ostrea lurida,r,2.4,3,0.3,1,0
+Modern,m3,site 1,replicate 1,3,Ostrea lurida,r,2.4,3.1,3,1,0
+Modern,m4,site 1,replicate 1,4,Ostrea lurida,r,2.6,3.6,0.3,1,0
+Modern,m5,site 1,replicate 1,5,Ostrea lurida,r,2.1,3.1,0.2,1,0
+Modern,m6,site 1,replicate 1,6,Ostrea lurida,r,2.2,3.1,0.2,0,0
+Modern,m7,site 1,replicate 1,7,Ostrea lurida,r,1.9,2.8,0.3,1,0
+Modern,m8,site 1,replicate 1,8,Ostrea lurida,r,2.5,3.6,0.2,0,0
+Modern,m9,site 1,replicate 1,9,Ostrea lurida,r,2.5,3.5,0.4,1,0
+Modern,m10,site 1,replicate 1,10,Ostrea lurida,l,2.2,3.5,0.4,0,0
+Modern,m11,site 1,replicate 1,11,Ostrea lurida,r,3.2,2.9,0.3,1,0
+Modern,m12,site 1,replicate 1,12,Ostrea lurida,r,2.4,3,0.3,1,0
+Modern,m13,site 1,replicate 1,13,Ostrea lurida,r,2.3,3.1,0.6,1,0
+Modern,m14,site 1,replicate 1,14,Ostrea lurida,r,2.9,3.5,0.3,1,0
+Modern,m15,site 1,replicate 1,15,Ostrea lurida,r,2.4,2.8,0.4,0,0
+Modern,m16,site 1,replicate 1,16,Ostrea lurida,r,2.1,3,0.3,1,0
+Modern,m17,site 1,replicate 1,17,Ostrea lurida,r,2.7,3.4,0.2,1,0
+Modern,m18,site 1,replicate 1,18,Ostrea lurida,r,2.5,2.8,0.4,1,0
+Modern,m19,site 1,replicate 1,19,Ostrea lurida,r,2.3,3.1,0.4,1,0
+Modern,m20,site 1,replicate 1,20,Ostrea lurida,r,1.5,1.6,0.2,0,0
+Modern,m21,site 1,replicate 1,21,Ostrea lurida,r,2.1,3.1,0.2,1,0
+Modern,m22,site 1,replicate 1,22,Ostrea lurida,r,2.3,2.8,0.5,0,0
+Modern,m23,site 1,replicate 1,23,Ostrea lurida,r,2.4,2.9,0.2,1,0
+Modern,m24,site 1,replicate 1,24,Ostrea lurida,r,3,3.5,0.5,0,0
+Modern,m25,site 1,replicate 1,25,Ostrea lurida,r,2,2.8,0.5,0,0
+Modern,m26,site 1,replicate 1,26,Ostrea lurida,r,1.5,2.4,0.2,0,0
+Modern,m27,site 1,replicate 1,27,Ostrea lurida,r,2.5,3.1,0.4,1,0
+Modern,m28,site 1,replicate 1,28,Ostrea lurida,r,2.1,2.8,0.5,0,0
+Modern,m29,site 1,replicate 1,29,Ostrea lurida,r,2,2.5,0.3,1,0
+Modern,m30,site 1,replicate 1,30,Ostrea lurida,r,1.6,2.8,0.3,1,0
+Modern,m31,site 1,replicate 1,31,Ostrea lurida,r,2.8,3,0.2,1,0
+Modern,m32,site 1,replicate 1,32,Ostrea lurida,r,3.2,3.9,0.5,1,0
+Modern,m33,site 1,replicate 1,33,Ostrea lurida,r,2.5,3.2,0.2,1,0
+Modern,m34,site 1,replicate 1,34,Ostrea lurida,r,3,2.8,0.7,1,0
+Modern,m35,site 1,replicate 1,35,Ostrea lurida,r,2.6,3,0.5,1,0
+Modern,m36,site 1,replicate 1,36,Ostrea lurida,r,2.5,3.3,0.4,0,0
+Modern,m37,site 1,replicate 1,37,Ostrea lurida,r,2.1,2.6,0.1,0,0
+Modern,m38,site 1,replicate 1,38,Ostrea lurida,r,3.1,4.1,0.3,1,0
+Modern,m39,site 1,replicate 1,39,Ostrea lurida,r,1.9,2.5,0.3,1,0
+Modern,m40,site 1,replicate 1,40,Ostrea lurida,r,2.2,3.3,0.5,0,0
+Modern,m41,site 1,replicate 1,41,Ostrea lurida,r,1.3,2,0.2,0,0
+Modern,m42,site 1,replicate 1,42,Ostrea lurida,r,2.5,3.6,0.6,1,0
+Modern,m43,site 1,replicate 1,43,Ostrea lurida,r,2.1,2.3,0.3,1,0
+Modern,m44,site 1,replicate 1,44,Ostrea lurida,r,2,2.5,0.4,1,0
+Modern,m45,site 1,replicate 1,45,Ostrea lurida,r,2,2.5,0.2,1,0
+Modern,m46,site 1,replicate 1,46,Ostrea lurida,r,2.2,3,0.3,1,0
+Modern,m47,site 1,replicate 1,47,Ostrea lurida,r,2.2,2.6,0.2,1,0
+Modern,m48,site 1,replicate 1,48,Ostrea lurida,r,2,2.9,0.2,1,0
+Modern,m49,site 1,replicate 1,49,Ostrea lurida,r,2.1,3.1,0.2,1,0
+Modern,m50,site 1,replicate 1,50,Ostrea lurida,r,2.5,3.4,0.3,1,0
+Modern,m51,site 1,replicate 1,51,Ostrea lurida,r,2.1,2.3,0.3,0,0
+Modern,m52,site 1,replicate 1,52,Ostrea lurida,r,2.3,2.8,0.3,1,0
+Modern,m53,site 1,replicate 1,53,Ostrea lurida,r,2.5,1.9,0.2,1,0
+Modern,m54,site 1,replicate 1,54,Ostrea lurida,r,2.1,2.7,0.3,1,0
+Modern,m55,site 1,replicate 1,55,Ostrea lurida,r,2.3,2.5,0.2,1,0
+Modern,m56,site 1,replicate 1,56,Ostrea lurida,r,2.1,2.8,0.2,0,0
+Modern,m57,site 1,replicate 1,57,Ostrea lurida,r,1.7,2.7,0.3,0,0
+Modern,m58,site 1,replicate 1,58,Ostrea lurida,r,1.8,2.9,0.4,1,0
+Modern,m59,site 1,replicate 1,59,Ostrea lurida,r,2.2,3.4,0.2,1,0
+Modern,m60,site 1,replicate 1,60,Ostrea lurida,r,2.3,2.8,0.3,1,0
+Modern,m61,site 1,replicate 1,61,Ostrea lurida,r,2.2,2.4,0.2,1,0
+Modern,m62,site 1,replicate 1,62,Ostrea lurida,r,2.4,3.3,0.3,1,0
+Modern,m63,site 1,replicate 1,63,Ostrea lurida,r,1.8,2.1,0.2,0,0
+Modern,m64,site 1,replicate 1,64,Ostrea lurida,r,3,2,0.3,1,0
+Modern,m65,site 1,replicate 1,65,Ostrea lurida,r,2.7,2,0.3,0,0
+Modern,m66,site 1,replicate 1,66,Ostrea lurida,r,2.1,2.7,0.3,0,0
+Modern,m67,site 1,replicate 1,67,Ostrea lurida,r,2.4,2.4,0.6,1,0
+Modern,m68,site 1,replicate 1,68,Ostrea lurida,r,2,1.7,0.2,0,0
+Modern,m69,site 1,replicate 1,69,Ostrea lurida,r,2.6,2.7,0.3,1,0
+Modern,m70,site 1,replicate 1,70,Ostrea lurida,r,2.2,2.3,0.3,1,0
+Modern,m71,site 1,replicate 1,71,Ostrea lurida,r,2.2,1.9,0.3,1,0
+Modern,m72,site 1,replicate 1,72,Ostrea lurida,r,2.8,2.1,0.2,1,0
+Modern,m73,site 1,replicate 1,73,Ostrea lurida,r,2.6,1.6,0.2,1,0
+Modern,m74,site 1,replicate 1,74,Ostrea lurida,r,3,2.1,0.3,1,0
+Modern,m75,site 1,replicate 1,75,Ostrea lurida,r,3,1.7,0.2,0,0
+Modern,m76,site 1,replicate 1,76,Ostrea lurida,r,1.7,2.1,0.4,0,0
+Modern,m77,site 1,replicate 1,77,Ostrea lurida,r,2.3,2.1,0.3,0,0
+Modern,m78,site 1,replicate 1,78,Ostrea lurida,r,2.2,1.8,0.2,0,0
+Modern,m79,site 1,replicate 1,79,Ostrea lurida,r,2.4,2.1,0.3,1,0
+Modern,m80,site 1,replicate 1,80,Ostrea lurida,r,1.7,1.2,0.2,0,0
+Modern,m81,site 1,replicate 1,81,Ostrea lurida,r,2.1,1.5,0.1,0,0
+Modern,m82,site 1,replicate 1,82,Ostrea lurida,r,2.3,1.4,0.2,0,0
+Modern,m83,site 1,replicate 1,83,Ostrea lurida,l,3.5,2.2,0.2,0,0
+Modern,m84,site 1,replicate 1,84,Ostrea lurida,l,3,2.1,0.3,0,0
+Modern,m85,site 1,replicate 1,85,Ostrea lurida,l,2.6,2.8,0.3,0,0
+Modern,m86,site 1,replicate 1,86,Ostrea lurida,l,3.5,2.1,0.2,0,0
+Modern,m87,site 1,replicate 1,87,Ostrea lurida,l,2.1,3.2,0.2,1,0
+Modern,m88,site 1,replicate 1,88,Ostrea lurida,l,2.6,2.2,0.1,0,0
+Modern,m89,site 1,replicate 1,89,Ostrea lurida,l,2.6,1.6,0.3,0,0
+Modern,m90,site 1,replicate 1,90,Ostrea lurida,l,2.8,1.5,0.3,1,0
+Modern,m91,site 1,replicate 1,91,Ostrea lurida,l,3.1,2.6,0.4,1,0
+Modern,m92,site 1,replicate 1,92,Ostrea lurida,l,2.7,1.6,0.3,1,0
+Modern,m93,site 1,replicate 1,93,Ostrea lurida,l,2.1,1.2,0.2,1,0
+Modern,m94,site 1,replicate 1,94,Ostrea lurida,l,2.1,1.4,0.2,0,0
+Modern,m95,site 1,replicate 1,95,Ostrea lurida,l,2.1,1.8,0.4,1,0
+Modern,m96,site 1,replicate 1,96,Ostrea lurida,l,2.6,2,0.2,1,0
+Modern,m97,site 1,replicate 1,97,Ostrea lurida,l,2.8,2.2,0.3,1,0
+Modern,m98,site 1,replicate 1,98,Ostrea lurida,l,2,1.5,0.4,0,0
+Modern,m99,site 1,replicate 1,99,Ostrea lurida,l,2.4,1.8,0.2,0,0
+Archeo,A1,site 1,level 1,1,Ostrea lurida,r,3.5,4,0.2,0,0
+Archeo,A2,site 1,level 1,2,Ostrea lurida,r,3.2,4.7,0.3,1,0
+Archeo,A3,site 1,level 1,3,Ostrea lurida,r,3.4,4.5,0.5,0,0
+Archeo,A4,site 1,level 1,4,Ostrea lurida,l,2.7,3.6,0.7,1,0
+Archeo,A5,site 1,level 1,5,Ostrea lurida,l,2.9,3.9,1.3,1,0
+Archeo,A6,site 1,level 1,6,Ostrea lurida,r,3.2,4,0.2,1,0
+Archeo,A7,site 1,level 1,7,Ostrea lurida,l,2.8,4.2,0.6,0,0
+Archeo,A8,site 1,level 1,8,Ostrea lurida,r,2.7,4.2,1,0,0
+Archeo,A9,site 1,level 1,9,Ostrea lurida,r,2.1,3.3,0.6,0,0
+Archeo,A10,site 1,level 1,10,Ostrea lurida,r,2.5,3.9,0.2,0,0
+Archeo,A11,site 1,level 1,11,Ostrea lurida,r,2,3.2,0.4,0,0
+Archeo,A12,site 1,level 1,12,Ostrea lurida,r,3.4,3.2,0.6,1,0
+Archeo,A13,site 1,level 1,13,Ostrea lurida,r,1.9,3.3,0.5,0,0
+Archeo,A14,site 1,level 1,14,Ostrea lurida,r,2.2,3.1,0.6,0,0
+Archeo,A15,site 1,level 1,15,Ostrea lurida,l,1.5,2.2,0.4,0,0
+Archeo,A16,site 1,level 1,16,Ostrea lurida,l,1.5,3.7,0.4,0,0
+Archeo,A17,site 1,level 1,17,Ostrea lurida,l,2.2,3,0.5,1,0
+Archeo,A18,site 1,level 1,18,Ostrea lurida,l,2,3.5,0.6,1,0
+Archeo,A19,site 1,level 1,19,Ostrea lurida,l,2,3.4,0.5,0,0
+Archeo,A20,site 1,level 1,20,Ostrea lurida,l,1.4,2,0.5,0,0
+Archeo,A21,site 1,level 1,21,Ostrea lurida,l,1.6,3.1,0.7,0,0
+Archeo,A22,site 1,level 1,22,Ostrea lurida,l,2.1,3.3,1.3,1,0
+Archeo,A23,site 1,level 1,23,Ostrea lurida,l,1.5,3.1,0.5,0,0
+Archeo,A24,site 1,level 1,24,Ostrea lurida,l,2.1,2.6,0.3,0,0
+Archeo,A25,site 1,level 1,25,Ostrea lurida,l,1.9,4.3,0.6,0,0
+Archeo,A26,site 1,level 1,26,Ostrea lurida,l,1.7,3.4,0.6,0,0
+Archeo,A27,site 1,level 1,27,Ostrea lurida,l,2.3,3.3,0.6,0,0
+Archeo,A28,site 1,level 1,28,Ostrea lurida,l,2.9,3.5,0.4,1,0
+Archeo,A29,site 1,level 1,29,Ostrea lurida,l,2.7,2.1,0.5,1,0
+Archeo,A30,site 1,level 1,30,Ostrea lurida,r,1.2,3.2,0.5,1,0
+Archeo,A1,site 2,level 1,31,Ostrea lurida,l,3.3,5.3,1,0,0
+Archeo,A2,site 2,level 1,32,Ostrea lurida,l,3.3,3.7,1.1,1,0
+Archeo,A3,site 2,level 1,33,Ostrea lurida,r,3.2,4,0.7,1,0
+Archeo,A4,site 2,level 1,34,Ostrea lurida,l,2.4,3.5,0.8,0,0
+Archeo,A5,site 2,level 1,35,Ostrea lurida,l,2.8,3.2,0.7,1,0
+Archeo,A6,site 2,level 1,36,Ostrea lurida,r,3,3.6,0.4,0,0
+Archeo,A7,site 2,level 1,37,Ostrea lurida,r,3,4.7,0.5,0,0
+Archeo,A8,site 2,level 1,38,Ostrea lurida,r,3.3,2.3,0.6,0,0
+Archeo,A9,site 2,level 1,39,Ostrea lurida,r,3,4.1,0.3,0,0
+Archeo,A10,site 2,level 1,40,Ostrea lurida,l,2.7,3.7,1.1,1,0
+Archeo,A11,site 2,level 1,41,Ostrea lurida,r,3,4.2,0.4,0,0
+Archeo,A12,site 2,level 1,42,Ostrea lurida,r,2.3,3,0.7,0,0
+Archeo,A13,site 2,level 1,43,Ostrea lurida,r,3.3,4.2,0.7,1,0
+Archeo,A14,site 2,level 1,44,Ostrea lurida,r,3.6,4.3,0.5,1,0
+Archeo,A15,site 2,level 1,45,Ostrea lurida,l,2.9,3.7,0.5,0,0
+Archeo,A16,site 2,level 1,46,Ostrea lurida,r,3.6,4.1,0.5,1,0
+Archeo,A17,site 2,level 1,47,Ostrea lurida,l,2.6,4.2,1.5,0,0
+Archeo,A18,site 2,level 1,48,Ostrea lurida,r,3.2,3.7,0.5,0,0
+Archeo,A19,site 2,level 1,49,Ostrea lurida,r,2.6,4,0.6,1,0
+Archeo,A20,site 2,level 1,50,Ostrea lurida,r,2.6,3.6,0.6,1,0
+Archeo,A21,site 2,level 1,51,Ostrea lurida,l,1.7,1.9,0.4,0,0
+Archeo,A22,site 2,level 1,52,Ostrea lurida,l,2.6,2.4,0.7,1,0
+Archeo,A23,site 2,level 1,53,Ostrea lurida,l,2,3.5,0.5,0,0
+Archeo,A24,site 2,level 1,54,Ostrea lurida,l,3.6,4.3,1.2,1,0
+Archeo,A25,site 2,level 1,55,Ostrea lurida,l,2.3,3.1,0.6,0,0
+Archeo,A26,site 2,level 1,56,Ostrea lurida,r,3.5,4.9,0.3,1,0
+Archeo,A27,site 2,level 1,57,Ostrea lurida,l,3.2,4.3,0.7,1,0
+Archeo,A28,site 2,level 1,58,Ostrea lurida,l,2.2,3.6,0.6,0,0
+Archeo,A29,site 2,level 1,59,Ostrea lurida,r,2.5,3,0.3,1,0
+Archeo,A30,site 2,level 1,60,Ostrea lurida,r,2.4,3,0.3,0,0
+Archeo,A31,site 2,level 1,61,Ostrea lurida,l,2,1.7,0.9,0,0
+Archeo,A32,site 2,level 1,62,Ostrea lurida,l,2.9,4,0.7,1,0
+Archeo,A33,site 2,level 1,63,Ostrea lurida,r,1.4,3.4,0.3,0,0
+Archeo,A34,site 2,level 1,64,Ostrea lurida,l,2.6,3.1,0.5,1,0
+Archeo,A35,site 2,level 1,65,Ostrea lurida,r,2.7,2.9,0.3,1,0
+Archeo,A36,site 2,level 1,66,Ostrea lurida,l,1.9,2.8,0.5,1,0
+Archeo,A37,site 2,level 1,67,Ostrea lurida,l,2.6,4.1,0.8,1,0
+Archeo,A38,site 2,level 1,68,Ostrea lurida,l,2,3.1,1,1,0
+Archeo,A39,site 2,level 1,69,Ostrea lurida,l,4,4.4,0.1,0,0
+Archeo,A40,site 2,level 1,70,Ostrea lurida,r,3,3.4,0.5,1,0
+Archeo,A41,site 2,level 1,71,Ostrea lurida,l,2.6,3.6,0.5,1,0
+Archeo,A42,site 2,level 1,72,Ostrea lurida,l,3.1,4.2,1,1,0
+Archeo,A43,site 2,level 1,73,Ostrea lurida,r,3.3,3.6,0.6,1,0
+Archeo,A44,site 2,level 1,74,Ostrea lurida,r,3.6,3.9,0.3,1,0
+Archeo,A45,site 2,level 1,75,Ostrea lurida,l,3,4.3,0.3,0,0
+Archeo,A46,site 2,level 1,76,Ostrea lurida,l,2.6,3.6,0.6,1,0
+Archeo,A47,site 2,level 1,77,Ostrea lurida,l,2.8,3.8,0.6,1,0
+Archeo,A48,site 2,level 1,78,Ostrea lurida,l,2.8,3.7,0.9,1,0
+Archeo,A49,site 2,level 1,79,Ostrea lurida,l,2.8,4.3,1.2,1,0
+Archeo,A50,site 2,level 1,80,Ostrea lurida,l,1.9,3.9,0.5,0,0
+Archeo,A51,site 2,level 1,81,Ostrea lurida,l,3,4,0.9,1,0
+Archeo,A52,site 2,level 1,82,Ostrea lurida,l,3.1,3.9,0.9,1,0
+Archeo,A53,site 2,level 1,83,Ostrea lurida,l,2.2,2.6,0.5,1,0
+Archeo,A54,site 2,level 1,84,Ostrea lurida,l,2.8,3.4,1.1,1,0
+Archeo,A55,site 2,level 1,85,Ostrea lurida,l,2.6,4,0.8,1,0
+Archeo,A56,site 2,level 1,86,Ostrea lurida,l,2.8,1.7,1,1,0
+Archeo,A1,site 3,level 1,87,Ostrea lurida,l,2.4,3.2,0.4,1,0
+Archeo,A2,site 3,level 1,88,Ostrea lurida,r,2.8,3.6,0.4,0,0
+Archeo,A3,site 3,level 1,89,Ostrea lurida,r,2.6,3.6,0.6,1,0
+Archeo,A4,site 3,level 1,90,Ostrea lurida,r,2.7,4,0.4,1,0
+Archeo,A5,site 3,level 1,91,Ostrea lurida,l,2.6,4.1,0.7,1,0
+Archeo,A6,site 3,level 1,92,Ostrea lurida,l,3.1,3.2,0.6,1,0
+Archeo,A7,site 3,level 1,93,Ostrea lurida,r,2.7,3.6,0.5,1,0
+Archeo,A8,site 3,level 1,94,Ostrea lurida,l,3,4,0.7,1,0
+Archeo,A9,site 3,level 1,95,Ostrea lurida,l,2.7,3.5,0.7,0,0
+Archeo,A10,site 3,level 1,96,Ostrea lurida,l,3.2,3.2,0.6,1,0
+Archeo,A11,site 3,level 1,97,Ostrea lurida,r,3.2,3.8,0.4,1,0
+Archeo,A1,site 4,level 2,98,Ostrea lurida,r,2.2,3.4,0.7,1,0
+Archeo,A2,site 4,level 3,99,Ostrea lurida,r,2,4.2,0.6,1,0
+Fossil,NA,site 1,replicate 1,1,Ostrea lurida,l,NA,4.6,NA,0,0
+Fossil,NA,site 1,replicate 1,2,Ostrea lurida,l,NA,4.4,NA,0,0
+Fossil,NA,site 1,replicate 1,3,Ostrea lurida,r,NA,1.8,NA,0,0
+Fossil,NA,site 1,replicate 1,4,Ostrea lurida,r,NA,4.9,NA,0,0
+Fossil,NA,site 1,replicate 1,5,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,6,Ostrea lurida,l,NA,5.6,NA,1,0
+Fossil,NA,site 1,replicate 1,7,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 1,replicate 1,8,Ostrea lurida,r,NA,4.3,NA,0,0
+Fossil,NA,site 1,replicate 1,9,Ostrea lurida,l,NA,3.2,NA,1,0
+Fossil,NA,site 1,replicate 1,10,Ostrea lurida,r,NA,3.9,NA,0,0
+Fossil,NA,site 1,replicate 1,11,Ostrea lurida,r,NA,3.1,NA,0,0
+Fossil,NA,site 1,replicate 1,12,Ostrea lurida,l,NA,4.6,NA,0,0
+Fossil,NA,site 1,replicate 1,13,Ostrea lurida,l,NA,4.3,NA,1,0
+Fossil,NA,site 1,replicate 1,14,Ostrea lurida,l,NA,4.7,NA,1,0
+Fossil,NA,site 1,replicate 1,15,Ostrea lurida,r,NA,3.4,NA,1,0
+Fossil,NA,site 1,replicate 1,16,Ostrea lurida,r,NA,2.1,NA,0,0
+Fossil,NA,site 1,replicate 1,17,Ostrea lurida,r,NA,2.3,NA,1,0
+Fossil,NA,site 1,replicate 1,18,Ostrea lurida,r,NA,3.7,NA,0,0
+Fossil,NA,site 1,replicate 1,19,Ostrea lurida,r,NA,3.4,NA,0,0
+Fossil,NA,site 1,replicate 1,20,Ostrea lurida,l,NA,3.5,NA,0,0
+Fossil,NA,site 1,replicate 1,21,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,22,Ostrea lurida,l,NA,2.5,NA,0,0
+Fossil,NA,site 1,replicate 1,23,Ostrea lurida,l,NA,4.4,NA,0,0
+Fossil,NA,site 1,replicate 1,24,Ostrea lurida,l,NA,4.3,NA,0,0
+Fossil,NA,site 1,replicate 1,25,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,26,Ostrea lurida,r,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,27,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,28,Ostrea lurida,l,NA,4.1,NA,1,0
+Fossil,NA,site 1,replicate 1,29,Ostrea lurida,l,NA,4.2,NA,1,0
+Fossil,NA,site 1,replicate 1,30,Ostrea lurida,r,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,31,Ostrea lurida,r,NA,3.4,NA,0,0
+Fossil,NA,site 1,replicate 1,32,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,33,Ostrea lurida,l,NA,4.5,NA,1,0
+Fossil,NA,site 1,replicate 1,34,Ostrea lurida,r,NA,2.9,NA,1,0
+Fossil,NA,site 1,replicate 1,35,Ostrea lurida,l,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,36,Ostrea lurida,r,NA,2.8,NA,0,0
+Fossil,NA,site 1,replicate 1,37,Ostrea lurida,l,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,38,Ostrea lurida,l,NA,4,NA,1,0
+Fossil,NA,site 1,replicate 1,39,Ostrea lurida,l,NA,4.6,NA,1,0
+Fossil,NA,site 1,replicate 1,40,Ostrea lurida,l,NA,4.9,NA,0,0
+Fossil,NA,site 1,replicate 1,41,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,42,Ostrea lurida,r,NA,3.6,NA,0,0
+Fossil,NA,site 1,replicate 1,43,Ostrea lurida,l,NA,3,NA,0,0
+Fossil,NA,site 1,replicate 1,44,Ostrea lurida,l,NA,4.3,NA,0,0
+Fossil,NA,site 1,replicate 1,45,Ostrea lurida,l,NA,3,NA,0,0
+Fossil,NA,site 1,replicate 1,46,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,47,Ostrea lurida,l,NA,3.8,NA,1,0
+Fossil,NA,site 1,replicate 1,48,Ostrea lurida,l,NA,3.7,NA,1,0
+Fossil,NA,site 1,replicate 1,49,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 1,replicate 1,50,Ostrea lurida,l,NA,5.4,NA,0,0
+Fossil,NA,site 1,replicate 1,51,Ostrea lurida,l,NA,4.6,NA,0,0
+Fossil,NA,site 1,replicate 1,52,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 1,replicate 1,53,Ostrea lurida,r,NA,1.7,NA,1,0
+Fossil,NA,site 1,replicate 1,54,Ostrea lurida,l,NA,3.8,NA,1,0
+Fossil,NA,site 1,replicate 1,55,Ostrea lurida,l,NA,3.2,NA,0,0
+Fossil,NA,site 1,replicate 1,56,Ostrea lurida,l,NA,3.1,NA,0,0
+Fossil,NA,site 1,replicate 1,57,Ostrea lurida,l,NA,4,NA,1,0
+Fossil,NA,site 1,replicate 1,58,Ostrea lurida,l,NA,3.2,NA,1,0
+Fossil,NA,site 1,replicate 1,59,Ostrea lurida,l,NA,3.1,NA,0,0
+Fossil,NA,site 1,replicate 1,60,Ostrea lurida,l,NA,4.1,NA,0,0
+Fossil,NA,site 1,replicate 1,61,Ostrea lurida,l,NA,3.5,NA,0,0
+Fossil,NA,site 1,replicate 1,62,Ostrea lurida,l,NA,2.9,NA,0,0
+Fossil,NA,site 1,replicate 1,63,Ostrea lurida,l,NA,2.7,NA,1,0
+Fossil,NA,site 1,replicate 1,64,Ostrea lurida,l,NA,3.7,NA,?,0
+Fossil,NA,site 1,replicate 1,65,Ostrea lurida,r,NA,2.3,NA,0,0
+Fossil,NA,site 1,replicate 1,66,Ostrea lurida,l,NA,3.5,NA,0,0
+Fossil,NA,site 1,replicate 1,67,Ostrea lurida,r,NA,2.6,NA,1,0
+Fossil,NA,site 1,replicate 1,68,Ostrea lurida,r,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,69,Ostrea lurida,l,NA,2.9,NA,1,0
+Fossil,NA,site 1,replicate 1,70,Ostrea lurida,l,NA,3.6,NA,1,0
+Fossil,NA,site 1,replicate 1,71,Ostrea lurida,l,NA,3.1,NA,1,0
+Fossil,NA,site 1,replicate 1,72,Ostrea lurida,l,NA,2.2,NA,0,0
+Fossil,NA,site 1,replicate 1,73,Ostrea lurida,l,NA,2.2,NA,0,0
+Fossil,NA,site 1,replicate 1,74,Ostrea lurida,l,NA,3.6,NA,1,0
+Fossil,NA,site 1,replicate 1,75,Ostrea lurida,l,NA,2.2,NA,0,0
+Fossil,NA,site 1,replicate 1,76,Ostrea lurida,l,NA,2.5,NA,0,0
+Fossil,NA,site 1,replicate 1,77,Ostrea lurida,l,NA,3.4,NA,1,0
+Fossil,NA,site 1,replicate 1,78,Ostrea lurida,r,NA,2.6,NA,0,0
+Fossil,NA,site 1,replicate 1,79,Ostrea lurida,l,NA,2.1,NA,0,0
+Fossil,NA,site 1,replicate 1,80,Ostrea lurida,l,NA,3.2,NA,0,0
+Fossil,NA,site 1,replicate 1,81,Ostrea lurida,l,NA,3.6,NA,1,0
+Fossil,NA,site 1,replicate 1,82,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,83,Ostrea lurida,l,NA,1.9,NA,0,0
+Fossil,NA,site 1,replicate 1,84,Ostrea lurida,l,NA,2.6,NA,1,0
+Fossil,NA,site 1,replicate 1,85,Ostrea lurida,l,NA,2.9,NA,0,0
+Fossil,NA,site 1,replicate 1,86,Ostrea lurida,r,NA,2.1,NA,0,0
+Fossil,NA,site 1,replicate 1,87,Ostrea lurida,l,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,88,Ostrea lurida,l,NA,3.3,NA,0,0
+Fossil,NA,site 1,replicate 1,89,Ostrea lurida,r,NA,2.4,NA,0,0
+Fossil,NA,site 1,replicate 1,90,Ostrea lurida,r,NA,4,NA,1,0
+Fossil,NA,site 1,replicate 1,91,Ostrea lurida,l,NA,3.4,NA,0,0
+Fossil,NA,site 1,replicate 1,92,Ostrea lurida,r,NA,2.5,NA,1,0
+Fossil,NA,site 1,replicate 1,93,Ostrea lurida,l,NA,2.9,NA,1,0
+Fossil,NA,site 1,replicate 1,94,Ostrea lurida,r,NA,3,NA,0,0
+Fossil,NA,site 1,replicate 1,95,Ostrea lurida,r,NA,1.6,NA,0,0
+Fossil,NA,site 1,replicate 1,96,Ostrea lurida,r,NA,2,NA,0,0
+Fossil,NA,site 1,replicate 1,97,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,98,Ostrea lurida,r,NA,1.8,NA,0,0
+Fossil,NA,site 1,replicate 1,99,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,100,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,101,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,102,Ostrea lurida,r,NA,1.8,NA,0,0
+Fossil,NA,site 1,replicate 1,103,Ostrea lurida,r,NA,2.8,NA,0,0
+Fossil,NA,site 1,replicate 1,104,Ostrea lurida,l,NA,2.1,NA,0,0
+Fossil,NA,site 1,replicate 1,105,Ostrea lurida,r,NA,3.5,NA,0,0
+Fossil,NA,site 1,replicate 1,106,Ostrea lurida,l,NA,3.8,NA,0,0
+Fossil,NA,site 1,replicate 1,107,Ostrea lurida,l,NA,2.2,NA,0,0
+Fossil,NA,site 1,replicate 1,108,Ostrea lurida,r,NA,2.6,NA,0,0
+Fossil,NA,site 1,replicate 1,109,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 1,replicate 1,110,Ostrea lurida,r,NA,2.7,NA,0,0
+Fossil,NA,site 1,replicate 1,111,Ostrea lurida,l,NA,4.8,NA,0,0
+Fossil,NA,site 1,replicate 1,112,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 1,replicate 1,113,Ostrea lurida,r,NA,4.1,NA,0,0
+Fossil,NA,site 1,replicate 1,114,Ostrea lurida,r,NA,3.4,NA,1,0
+Fossil,NA,site 1,replicate 1,115,Ostrea lurida,r,NA,4,NA,1,0
+Fossil,NA,site 1,replicate 1,116,Ostrea lurida,r,NA,4.7,NA,1,0
+Fossil,NA,site 1,replicate 1,117,Ostrea lurida,r,NA,3.9,NA,0,0
+Fossil,NA,site 1,replicate 1,118,Ostrea lurida,l,NA,2.4,NA,0,0
+Fossil,NA,site 1,replicate 1,119,Ostrea lurida,l,NA,3.4,NA,1,0
+Fossil,NA,site 1,replicate 1,120,Ostrea lurida,l,NA,4.1,NA,0,0
+Fossil,NA,site 1,replicate 1,121,Ostrea lurida,r,NA,4,NA,1,0
+Fossil,NA,site 1,replicate 1,122,Ostrea lurida,r,NA,3.7,NA,0,0
+Fossil,NA,site 1,replicate 1,123,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 1,replicate 1,124,Ostrea lurida,l,NA,3.4,NA,1,0
+Fossil,NA,site 1,replicate 1,125,Ostrea lurida,l,NA,3.5,NA,1,0
+Fossil,NA,site 1,replicate 1,126,Ostrea lurida,l,NA,4.9,NA,0,0
+Fossil,NA,site 1,replicate 1,127,Ostrea lurida,l,NA,4.6,NA,1,0
+Fossil,NA,site 1,replicate 1,128,Ostrea lurida,l,NA,5.8,NA,0,0
+Fossil,NA,site 1,replicate 1,129,Ostrea lurida,r,NA,2.3,NA,0,0
+Fossil,NA,site 1,replicate 1,130,Ostrea lurida,l,NA,5.8,NA,1,0
+Fossil,NA,site 1,replicate 1,131,Ostrea lurida,l,NA,4.6,NA,1,0
+Fossil,NA,site 2,replicate 1,132,Ostrea lurida,l,NA,5.4,NA,0,0
+Fossil,NA,site 2,replicate 1,133,Ostrea lurida,r,NA,3,NA,0,0
+Fossil,NA,site 2,replicate 1,134,Ostrea lurida,l,NA,3.7,NA,0,0
+Fossil,NA,site 2,replicate 1,135,Ostrea lurida,r,NA,4.5,NA,0,0
+Fossil,NA,site 2,replicate 1,136,Ostrea lurida,l,NA,4.2,NA,1,0
+Fossil,NA,site 2,replicate 1,137,Ostrea lurida,r,NA,3,NA,0,0
+Fossil,NA,site 2,replicate 1,138,Ostrea lurida,l,NA,2.8,NA,0,0
+Fossil,NA,site 2,replicate 1,139,Ostrea lurida,l,NA,5.4,NA,0,0
+Fossil,NA,site 2,replicate 1,140,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,141,Ostrea lurida,l,NA,3.4,NA,0,0
+Fossil,NA,site 2,replicate 1,142,Ostrea lurida,l,NA,5.1,NA,0,0
+Fossil,NA,site 2,replicate 1,143,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,144,Ostrea lurida,l,NA,5.6,NA,0,0
+Fossil,NA,site 2,replicate 1,145,Ostrea lurida,r,NA,4.8,NA,0,0
+Fossil,NA,site 2,replicate 1,146,Ostrea lurida,l,NA,4.1,NA,0,0
+Fossil,NA,site 2,replicate 1,147,Ostrea lurida,r,NA,2.4,NA,0,0
+Fossil,NA,site 2,replicate 1,148,Ostrea lurida,r,NA,5.3,NA,0,0
+Fossil,NA,site 2,replicate 1,149,Ostrea lurida,l,NA,4.6,NA,1,0
+Fossil,NA,site 2,replicate 1,150,Ostrea lurida,r,NA,4.6,NA,1,0
+Fossil,NA,site 2,replicate 1,151,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 2,replicate 1,152,Ostrea lurida,l,NA,4.1,NA,1,0
+Fossil,NA,site 2,replicate 1,153,Ostrea lurida,l,NA,3.2,NA,0,0
+Fossil,NA,site 2,replicate 1,154,Ostrea lurida,r,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,155,Ostrea lurida,l,NA,5,NA,1,0
+Fossil,NA,site 2,replicate 1,156,Ostrea lurida,l,NA,3.1,NA,0,0
+Fossil,NA,site 2,replicate 1,157,Ostrea lurida,l,NA,5.7,NA,0,0
+Fossil,NA,site 2,replicate 1,158,Ostrea lurida,l,NA,2.9,NA,1,0
+Fossil,NA,site 2,replicate 1,159,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 2,replicate 1,160,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,161,Ostrea lurida,l,NA,3.8,NA,1,0
+Fossil,NA,site 2,replicate 1,162,Ostrea lurida,l,NA,5.2,NA,0,0
+Fossil,NA,site 2,replicate 1,163,Ostrea lurida,l,NA,5.2,NA,1,0
+Fossil,NA,site 2,replicate 1,164,Ostrea lurida,l,NA,5.4,NA,0,0
+Fossil,NA,site 2,replicate 1,165,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 2,replicate 1,166,Ostrea lurida,l,NA,4.8,NA,1,0
+Fossil,NA,site 2,replicate 1,167,Ostrea lurida,r,NA,3.2,NA,1,0
+Fossil,NA,site 2,replicate 1,168,Ostrea lurida,l,NA,2.5,NA,0,0
+Fossil,NA,site 2,replicate 1,169,Ostrea lurida,l,NA,3,NA,0,0
+Fossil,NA,site 2,replicate 1,170,Ostrea lurida,r,NA,1.9,NA,0,0
+Fossil,NA,site 2,replicate 1,171,Ostrea lurida,l,NA,3.7,NA,1,0
+Fossil,NA,site 2,replicate 1,172,Ostrea lurida,l,NA,2.9,NA,0,0
+Fossil,NA,site 2,replicate 1,173,Ostrea lurida,l,NA,5,NA,0,0
+Fossil,NA,site 2,replicate 1,174,Ostrea lurida,l,NA,3.7,NA,0,0
+Fossil,NA,site 2,replicate 1,175,Ostrea lurida,l,NA,3.9,NA,1,0
+Fossil,NA,site 2,replicate 1,176,Ostrea lurida,l,NA,5.4,NA,0,0
+Fossil,NA,site 2,replicate 1,177,Ostrea lurida,l,NA,4.1,NA,0,0
+Fossil,NA,site 2,replicate 1,178,Ostrea lurida,l,NA,4,NA,1,0
+Fossil,NA,site 2,replicate 1,179,Ostrea lurida,l,NA,4.8,NA,1,0
+Fossil,NA,site 2,replicate 1,180,Ostrea lurida,l,NA,4.6,NA,0,0
+Fossil,NA,site 2,replicate 1,181,Ostrea lurida,l,NA,4.7,NA,1,0
+Fossil,NA,site 2,replicate 1,182,Ostrea lurida,l/l,NA,3.6/4.9,NA,0,0
+Fossil,NA,site 1,replicate 1,183,Ostrea lurida,r,NA,1.1,NA,0,0
+Fossil,NA,site 1,replicate 1,184,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,185,Ostrea lurida,r,NA,1.8,NA,1,0
+Fossil,NA,site 1,replicate 1,186,Ostrea lurida,r,NA,1.6,NA,0,0
+Fossil,NA,site 1,replicate 1,187,Ostrea lurida,r,NA,2.2,NA,0,0
+Fossil,NA,site 1,replicate 1,188,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,189,Ostrea lurida,r,NA,1.5,NA,1,0
+Fossil,NA,site 1,replicate 1,190,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,191,Ostrea lurida,r,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,192,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,193,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,194,Ostrea lurida,r,NA,2.6,NA,1,0
+Fossil,NA,site 1,replicate 1,195,Ostrea lurida,r,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,196,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,197,Ostrea lurida,r,NA,1.2,NA,1,0
+Fossil,NA,site 1,replicate 1,198,Ostrea lurida,r,NA,1.1,NA,0,0
+Fossil,NA,site 1,replicate 1,199,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,200,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,201,Ostrea lurida,r,NA,1.1,NA,0,0
+Fossil,NA,site 1,replicate 1,202,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,203,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,204,Ostrea lurida,r,NA,1.6,NA,0,0
+Fossil,NA,site 1,replicate 1,205,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,206,Ostrea lurida,r,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,207,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,208,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,209,Ostrea lurida,r,NA,1.1,NA,0,0
+Fossil,NA,site 1,replicate 1,210,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,211,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,212,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,213,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,214,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,215,Ostrea lurida,r,NA,0.8,NA,0,0
+Fossil,NA,site 1,replicate 1,216,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,217,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,218,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,219,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,220,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,221,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,222,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,223,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,224,Ostrea lurida,r,NA,0.9,NA,0,0
+Fossil,NA,site 1,replicate 1,225,Ostrea lurida,l,NA,1.9,NA,0,0
+Fossil,NA,site 1,replicate 1,226,Ostrea lurida,l,NA,2,NA,0,0
+Fossil,NA,site 1,replicate 1,227,Ostrea lurida,l,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,228,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,229,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 1,replicate 1,230,Ostrea lurida,l,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,231,Ostrea lurida,l,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,232,Ostrea lurida,l,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,233,Ostrea lurida,l,NA,1.7,NA,0,0
+Fossil,NA,site 1,replicate 1,234,Ostrea lurida,l,NA,1.9,NA,0,0
+Fossil,NA,site 1,replicate 1,235,Ostrea lurida,l,NA,1.8,NA,0,0
+Fossil,NA,site 1,replicate 1,236,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,237,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,238,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,239,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 1,replicate 1,240,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,241,Ostrea lurida,l,NA,1.4,NA,1,0
+Fossil,NA,site 1,replicate 1,242,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,243,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 1,replicate 1,244,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,245,Ostrea lurida,l,NA,1.4,NA,1,0
+Fossil,NA,site 1,replicate 1,246,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,247,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,248,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,249,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,250,Ostrea lurida,l,NA,2.2,NA,0,0
+Fossil,NA,site 1,replicate 1,251,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,252,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 1,replicate 1,253,Ostrea lurida,l,NA,1.2,NA,1,0
+Fossil,NA,site 1,replicate 1,254,Ostrea lurida,l,NA,0.9,NA,0,0
+Fossil,NA,site 1,replicate 1,255,Ostrea lurida,l,NA,0.9,NA,0,0
+Fossil,NA,site 1,replicate 1,256,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,257,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 1,replicate 1,258,Ostrea lurida,l,NA,0.8,NA,0,0
+Fossil,NA,site 1,replicate 1,259,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 1,replicate 1,260,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,261,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,262,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 1,replicate 1,263,Ostrea lurida,l,NA,0.9,NA,0,0
+Fossil,NA,site 1,replicate 1,264,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 1,replicate 1,265,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 1,replicate 1,266,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,267,Ostrea lurida,r,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,268,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,269,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,270,Ostrea lurida,r,NA,1.7,NA,0,0
+Fossil,NA,site 2,replicate 1,271,Ostrea lurida,r,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,272,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,273,Ostrea lurida,r,NA,1.8,NA,0,0
+Fossil,NA,site 2,replicate 1,274,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,275,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,276,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,277,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,278,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,279,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,280,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,281,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,282,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,283,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,284,Ostrea lurida,r,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,285,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,286,Ostrea lurida,r,NA,1.8,NA,0,0
+Fossil,NA,site 2,replicate 1,287,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,288,Ostrea lurida,r,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,289,Ostrea lurida,r,NA,1.7,NA,0,0
+Fossil,NA,site 2,replicate 1,290,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,291,Ostrea lurida,r,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,292,Ostrea lurida,r,NA,1.5,NA,1,0
+Fossil,NA,site 2,replicate 1,293,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,294,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,295,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,296,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,297,Ostrea lurida,r,NA,0.9,NA,0,0
+Fossil,NA,site 2,replicate 1,298,Ostrea lurida,r,NA,0.8,NA,0,0
+Fossil,NA,site 2,replicate 1,299,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,300,Ostrea lurida,r,NA,1.7,NA,1,0
+Fossil,NA,site 2,replicate 1,301,Ostrea lurida,r,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,302,Ostrea lurida,r,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,303,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,304,Ostrea lurida,r,NA,0.9,NA,0,0
+Fossil,NA,site 2,replicate 1,305,Ostrea lurida,r,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,306,Ostrea lurida,r,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,307,Ostrea lurida,r,NA,1.7,NA,0,0
+Fossil,NA,site 2,replicate 1,308,Ostrea lurida,r,NA,1.9,NA,0,0
+Fossil,NA,site 2,replicate 1,309,Ostrea lurida,l,NA,1.5,NA,0,0
+Fossil,NA,site 2,replicate 1,310,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,311,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,312,Ostrea lurida,l,NA,1.8,NA,0,0
+Fossil,NA,site 2,replicate 1,313,Ostrea lurida,l,NA,1.9,NA,0,0
+Fossil,NA,site 2,replicate 1,314,Ostrea lurida,l,NA,1.8,NA,1,0
+Fossil,NA,site 2,replicate 1,315,Ostrea lurida,l,NA,2.3,NA,0,0
+Fossil,NA,site 2,replicate 1,316,Ostrea lurida,l,NA,1.7,NA,0,0
+Fossil,NA,site 2,replicate 1,317,Ostrea lurida,l,NA,1.4,NA,1,0
+Fossil,NA,site 2,replicate 1,318,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,319,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,320,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,321,Ostrea lurida,l,NA,2.3,NA,0,0
+Fossil,NA,site 2,replicate 1,322,Ostrea lurida,l,NA,1.8,NA,1,0
+Fossil,NA,site 2,replicate 1,323,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,324,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,325,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,326,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,327,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,328,Ostrea lurida,l,NA,2,NA,0,0
+Fossil,NA,site 2,replicate 1,329,Ostrea lurida,l,NA,2.3,NA,0,0
+Fossil,NA,site 2,replicate 1,330,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,331,Ostrea lurida,l,NA,1.8,NA,1,0
+Fossil,NA,site 2,replicate 1,332,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,333,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,334,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,335,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,336,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,337,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,338,Ostrea lurida,l,NA,1.9,NA,0,0
+Fossil,NA,site 2,replicate 1,339,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,340,Ostrea lurida,l,NA,1.3,NA,1,0
+Fossil,NA,site 2,replicate 1,341,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,342,Ostrea lurida,l,NA,1.3,NA,1,0
+Fossil,NA,site 2,replicate 1,343,Ostrea lurida,l,NA,1.3,NA,1,0
+Fossil,NA,site 2,replicate 1,344,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,345,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,346,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,347,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,348,Ostrea lurida,l,NA,1.3,NA,0,0
+Fossil,NA,site 2,replicate 1,349,Ostrea lurida,l,NA,2.3,NA,0,0
+Fossil,NA,site 2,replicate 1,350,Ostrea lurida,l,NA,1.4,NA,0,0
+Fossil,NA,site 2,replicate 1,351,Ostrea lurida,l,NA,1.6,NA,0,0
+Fossil,NA,site 2,replicate 1,352,Ostrea lurida,l,NA,1.2,NA,0,0
+Fossil,NA,site 2,replicate 1,353,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,354,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,355,Ostrea lurida,l,NA,1.1,NA,0,0
+Fossil,NA,site 2,replicate 1,356,Ostrea lurida,l,NA,0.9,NA,0,0
+Fossil,NA,site 2,replicate 1,357,Ostrea lurida,l,NA,1,NA,0,0
+Fossil,NA,site 2,replicate 1,358,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,359,Ostrea lurida,r,NA,3.1,NA,0,0
+Fossil,NA,site 2,replicate 1,360,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,361,Ostrea lurida,r,NA,3.5,NA,0,0
+Fossil,NA,site 2,replicate 1,362,Ostrea lurida,r,NA,4.5,NA,1,0
+Fossil,NA,site 2,replicate 1,363,Ostrea lurida,r,NA,3.3,NA,1,0
+Fossil,NA,site 2,replicate 1,364,Ostrea lurida,r,NA,2.6,NA,0,0
+Fossil,NA,site 2,replicate 1,365,Ostrea lurida,r,NA,3.8,NA,0,0
+Fossil,NA,site 2,replicate 1,366,Ostrea lurida,r,NA,4.3,NA,0,0
+Fossil,NA,site 2,replicate 1,367,Ostrea lurida,r,NA,4.3,NA,1,0
+Fossil,NA,site 2,replicate 1,368,Ostrea lurida,r,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,369,Ostrea lurida,r,NA,4.8,NA,0,0
+Fossil,NA,site 2,replicate 1,370,Ostrea lurida,r,NA,3.2,NA,0,0
+Fossil,NA,site 2,replicate 1,371,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,372,Ostrea lurida,l,NA,4.8,NA,0,0
+Fossil,NA,site 2,replicate 1,373,Ostrea lurida,l,NA,3.8,NA,0,0
+Fossil,NA,site 2,replicate 1,374,Ostrea lurida,l,NA,3.8,NA,1,0
+Fossil,NA,site 2,replicate 1,375,Ostrea lurida,l,NA,3.1,NA,1,0
+Fossil,NA,site 2,replicate 1,376,Ostrea lurida,l,NA,4.4,NA,1,0
+Fossil,NA,site 2,replicate 1,377,Ostrea lurida,l,NA,5.3,NA,1,0
+Fossil,NA,site 2,replicate 1,378,Ostrea lurida,l,NA,5,NA,1,0
+Fossil,NA,site 2,replicate 1,379,Ostrea lurida,l,NA,3.9,NA,1,0
+Fossil,NA,site 2,replicate 1,380,Ostrea lurida,l,NA,3.2,NA,0,0
+Fossil,NA,site 2,replicate 1,381,Ostrea lurida,l,NA,4.7,NA,1,0
+Fossil,NA,site 2,replicate 1,382,Ostrea lurida,l,NA,5.8,NA,0,0
+Fossil,NA,site 2,replicate 1,383,Ostrea lurida,l,NA,3.7,NA,1,0
+Fossil,NA,site 2,replicate 1,384,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 2,replicate 1,385,Ostrea lurida,l,NA,5.5,NA,1,0
+Fossil,NA,site 2,replicate 1,386,Ostrea lurida,l,NA,3.7,NA,0,0
+Fossil,NA,site 2,replicate 1,387,Ostrea lurida,l,NA,4.5,NA,0,0
+Fossil,NA,site 2,replicate 1,388,Ostrea lurida,l,NA,4.4,NA,1,0
+Fossil,NA,site 2,replicate 1,389,Ostrea lurida,l,NA,3.3,NA,0,0
+Fossil,NA,site 2,replicate 1,390,Ostrea lurida,l,NA,3.8,NA,0,0
+Fossil,NA,site 2,replicate 1,391,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,392,Ostrea lurida,l,NA,5.5,NA,1,0
+Fossil,NA,site 2,replicate 1,393,Ostrea lurida,r,NA,5.2,NA,0,0
+Fossil,NA,site 2,replicate 1,394,Ostrea lurida,l,NA,4.9,NA,1,0
+Fossil,NA,site 2,replicate 1,395,Ostrea lurida,l,NA,6.3,NA,0,0
+Fossil,NA,site 2,replicate 1,396,Ostrea lurida,l,NA,4.7,NA,0,0
+Fossil,NA,site 2,replicate 1,397,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 2,replicate 1,398,Ostrea lurida,r,NA,4.7,NA,1,0
+Fossil,NA,site 2,replicate 1,399,Ostrea lurida,r,NA,3.8,NA,1,0
+Fossil,NA,site 2,replicate 1,400,Ostrea lurida,r,NA,4.6,NA,0,0
+Fossil,NA,site 2,replicate 1,401,Ostrea lurida,r,NA,4.1,NA,1,0
+Fossil,NA,site 2,replicate 1,402,Ostrea lurida,r,NA,4.8,NA,1,0
+Fossil,NA,site 2,replicate 1,403,Ostrea lurida,r,NA,5.8,NA,0,0
+Fossil,NA,site 2,replicate 1,404,Ostrea lurida,r,NA,5,NA,0,0
+Fossil,NA,site 2,replicate 1,405,Ostrea lurida,r,NA,4.1,NA,0,0
+Fossil,NA,site 2,replicate 1,406,Ostrea lurida,r,NA,3.9,NA,1,0
+Fossil,NA,site 2,replicate 1,407,Ostrea lurida,r,NA,4.5,NA,0,0
+Fossil,NA,site 2,replicate 1,408,Ostrea lurida,r,NA,4.6,NA,0,0
+Fossil,NA,site 2,replicate 1,409,Ostrea lurida,r,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,410,Ostrea lurida,r,NA,3.1,NA,0,0
+Fossil,NA,site 2,replicate 1,411,Ostrea lurida,r,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,412,Ostrea lurida,r,NA,5.2,NA,0,0
+Fossil,NA,site 2,replicate 1,413,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,414,Ostrea lurida,r,NA,2.6,NA,0,0
+Fossil,NA,site 2,replicate 1,415,Ostrea lurida,r,NA,1.8,NA,0,0
+Fossil,NA,site 2,replicate 1,416,Ostrea lurida,l,NA,3.1,NA,0,0
+Fossil,NA,site 2,replicate 1,417,Ostrea lurida,l,NA,2.9,NA,0,0
+Fossil,NA,site 2,replicate 1,418,Ostrea lurida,l,NA,5.2,NA,1,0
+Fossil,NA,site 2,replicate 1,419,Ostrea lurida,l,NA,3.4,NA,0,0
+Fossil,NA,site 2,replicate 1,420,Ostrea lurida,l,NA,2,NA,0,0
+Fossil,NA,site 2,replicate 1,421,Ostrea lurida,l,NA,4.7,NA,1,0
+Fossil,NA,site 2,replicate 1,422,Ostrea lurida,l,NA,4.5,NA,1,0
+Fossil,NA,site 2,replicate 1,423,Ostrea lurida,l,NA,4.6,NA,1,0
+Fossil,NA,site 2,replicate 1,424,Ostrea lurida,l,NA,3.2,NA,1,0
+Fossil,NA,site 2,replicate 1,425,Ostrea lurida,l,NA,2.4,NA,0,0
+Fossil,NA,site 2,replicate 1,426,Ostrea lurida,l,NA,4.2,NA,0,0
+Fossil,NA,site 2,replicate 1,427,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,428,Ostrea lurida,l,NA,4.6,NA,0,0
+Fossil,NA,site 2,replicate 1,429,Ostrea lurida,l,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,430,Ostrea lurida,l,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,431,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,432,Ostrea lurida,l,NA,4.6,NA,0,0
+Fossil,NA,site 2,replicate 1,433,Ostrea lurida,l,NA,4.5,NA,1,0
+Fossil,NA,site 2,replicate 1,434,Ostrea lurida,l,NA,4.5,NA,1,0
+Fossil,NA,site 2,replicate 1,435,Ostrea lurida,l,NA,2.6,NA,0,0
+Fossil,NA,site 2,replicate 1,436,Ostrea lurida,l,NA,1.8,NA,0,0
+Fossil,NA,site 2,replicate 1,437,Ostrea lurida,r,NA,2.3,NA,0,0
+Fossil,NA,site 2,replicate 1,438,Ostrea lurida,r,NA,3.4,NA,0,0
+Fossil,NA,site 2,replicate 1,439,Ostrea lurida,r,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,440,Ostrea lurida,r,NA,3,NA,1,0
+Fossil,NA,site 2,replicate 1,441,Ostrea lurida,r,NA,4.5,NA,0,0
+Fossil,NA,site 2,replicate 1,442,Ostrea lurida,r,NA,3.4,NA,0,0
+Fossil,NA,site 2,replicate 1,443,Ostrea lurida,r,NA,4.1,NA,0,0
+Fossil,NA,site 2,replicate 1,444,Ostrea lurida,r,NA,3.9,NA,1,0
+Fossil,NA,site 2,replicate 1,445,Ostrea lurida,r,NA,3.5,NA,1,0
+Fossil,NA,site 2,replicate 1,446,Ostrea lurida,r,NA,3.2,NA,0,0
+Fossil,NA,site 2,replicate 1,447,Ostrea lurida,r,NA,2.7,NA,0,0
+Fossil,NA,site 2,replicate 1,448,Ostrea lurida,r,NA,3.8,NA,1,0
+Fossil,NA,site 2,replicate 1,449,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,450,Ostrea lurida,r,NA,3,NA,0,0
+Fossil,NA,site 2,replicate 1,451,Ostrea lurida,r,NA,2.5,NA,0,0
+Fossil,NA,site 2,replicate 1,452,Ostrea lurida,r,NA,3,NA,0,0
+Fossil,NA,site 2,replicate 1,453,Ostrea lurida,r,NA,3.9,NA,1,0
+Fossil,NA,site 2,replicate 1,454,Ostrea lurida,r,NA,3.8,NA,1,0
+Fossil,NA,site 2,replicate 1,455,Ostrea lurida,r,NA,3.5,NA,0,0
+Fossil,NA,site 2,replicate 1,456,Ostrea lurida,r,NA,4.3,NA,0,0
+Fossil,NA,site 2,replicate 1,457,Ostrea lurida,r,NA,2.5,NA,0,0
+Fossil,NA,site 2,replicate 1,458,Ostrea lurida,r,NA,3.9,NA,1,0
+Fossil,NA,site 2,replicate 1,459,Ostrea lurida,r,NA,3.8,NA,0,0
+Fossil,NA,site 2,replicate 1,460,Ostrea lurida,r,NA,5.9,NA,1,0
+Fossil,NA,site 2,replicate 1,461,Ostrea lurida,r,NA,5.6,NA,0,0
+Fossil,NA,site 2,replicate 1,462,Ostrea lurida,r,NA,3.7,NA,1,0
+Fossil,NA,site 2,replicate 1,463,Ostrea lurida,r,NA,2,NA,0,0
+Fossil,NA,site 2,replicate 1,464,Ostrea lurida,r,NA,2.5,NA,0,0
+Fossil,NA,site 2,replicate 1,465,Ostrea lurida,r,NA,3.4,NA,1,0
+Fossil,NA,site 2,replicate 1,466,Ostrea lurida,r,NA,3.5,NA,1,0
+Fossil,NA,site 2,replicate 1,467,Ostrea lurida,r,NA,3.1,NA,0,0
+Fossil,NA,site 2,replicate 1,468,Ostrea lurida,r,NA,2.1,NA,0,0
+Fossil,NA,site 2,replicate 1,469,Ostrea lurida,r,NA,2.5,NA,0,0
+Fossil,NA,site 2,replicate 1,470,Ostrea lurida,r,NA,2.1,NA,0,0
+Fossil,NA,site 2,replicate 1,471,Ostrea lurida,r,NA,3.3,NA,1,0
+Fossil,NA,site 2,replicate 1,472,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,473,Ostrea lurida,r,NA,2.9,NA,0,0
+Fossil,NA,site 2,replicate 1,474,Ostrea lurida,r,NA,4.4,NA,0,0
+Fossil,NA,site 2,replicate 1,475,Ostrea lurida,r,NA,3.3,NA,0,0
+Fossil,NA,site 2,replicate 1,476,Ostrea lurida,r,NA,2.9,NA,0,0
+Fossil,NA,site 2,replicate 1,477,Ostrea lurida,r,NA,2.9,NA,0,0
+Fossil,NA,site 2,replicate 1,478,Ostrea lurida,r,NA,2.9,NA,1,0
+Fossil,NA,site 2,replicate 1,479,Ostrea lurida,r,NA,2.7,NA,0,0
+Fossil,NA,site 2,replicate 1,480,Ostrea lurida,r,NA,3.8,NA,0,0
+Fossil,NA,site 2,replicate 1,481,Ostrea lurida,r,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,482,Ostrea lurida,r,NA,2.2,NA,0,0
+Fossil,NA,site 2,replicate 1,483,Ostrea lurida,r,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,483,Ostrea lurida,r,NA,4.5,NA,0,0
+Fossil,NA,site 2,replicate 1,485,Ostrea lurida,l,NA,4.9,NA,1,0
+Fossil,NA,site 2,replicate 1,486,Ostrea lurida,l,NA,3.7,NA,1,0
+Fossil,NA,site 2,replicate 1,487,Ostrea lurida,r,NA,2.6,NA,0,0
+Fossil,NA,site 2,replicate 1,488,Ostrea lurida,l,NA,3.7,NA,1,0
+Fossil,NA,site 2,replicate 1,489,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,490,Ostrea lurida,l,NA,5.1,NA,1,0
+Fossil,NA,site 2,replicate 1,491,Ostrea lurida,l,NA,4.7,NA,0,0
+Fossil,NA,site 2,replicate 1,492,Ostrea lurida,l,NA,5.2,NA,0,0
+Fossil,NA,site 2,replicate 1,493,Ostrea lurida,l,NA,4.1,NA,0,0
+Fossil,NA,site 2,replicate 1,494,Ostrea lurida,l,NA,3.7,NA,0,0
+Fossil,NA,site 2,replicate 1,495,Ostrea lurida,r,NA,3.7,NA,0,0
+Fossil,NA,site 2,replicate 1,496,Ostrea lurida,r,NA,5.6,NA,1,0
+Fossil,NA,site 2,replicate 1,497,Ostrea lurida,r,NA,5.2,NA,0,0
+Fossil,NA,site 2,replicate 1,498,Ostrea lurida,r,NA,3.7,NA,0,0
+Fossil,NA,site 2,replicate 1,499,Ostrea lurida,l,NA,5.6,NA,1,0
+Fossil,NA,site 2,replicate 1,500,Ostrea lurida,l,NA,4.4,NA,0,0
+Fossil,NA,site 2,replicate 1,501,Ostrea lurida,l,NA,4.5,NA,1,0
+Fossil,NA,site 2,replicate 1,502,Ostrea lurida,r,NA,4.9,NA,0,0
+Fossil,NA,site 2,replicate 1,503,Ostrea lurida,l,NA,4.7,NA,0,0
+Fossil,NA,site 2,replicate 1,504,Ostrea lurida,l,NA,4,NA,0,0
+Fossil,NA,site 2,replicate 1,506,Ostrea lurida,l,NA,3.9,NA,0,0
+Fossil,NA,site 2,replicate 1,507,Ostrea lurida,l,NA,3.6,NA,0,0
+Fossil,NA,site 2,replicate 1,508,Ostrea lurida,r,NA,1.9,NA,0,0
+Fossil,NA,site 2,replicate 1,509,Ostrea lurida,r,NA,4.8,NA,0,0
+Fossil,NA,site 2,replicate 1,510,Ostrea lurida,r,NA,5,NA,0,0
+Fossil,NA,site 2,replicate 1,511,Ostrea lurida,l,NA,4.7,NA,0,0
+Fossil,NA,site 2,replicate 1,512,Ostrea lurida,l,NA,4.3,NA,0,0
+Fossil,NA,site 2,replicate 1,513,Ostrea lurida,l,NA,4.8,NA,0,0
