@@ -1,9 +1,9 @@
-## OLYS TEMPORAL SCRIPT
+# Code for manuscript: "Reconstructing the ecological history of shell-boring polychaetes 
+# in the Salish Sea to inform conservation and restoration strategies for native Olympia oysters
+# (Ostrea lurida)" by Martinelli et al., to be submitted to Conservation Biology.
 
 ### WORKING DIRECTORY AND PACKAGES
 #################################################################################
-setwd('/Users/jmartine/Desktop/Olys/')
-
 library(tidyverse)
 library(tidyr)
 library(plyr)
@@ -254,7 +254,7 @@ time_plot
 
 
 ##################
-### More LOADING DATA
+###  LOADING DATA for Prevalence Plot 
 dataplot <- read.csv('Oly plot.csv', header=TRUE, row.names = NULL, stringsAsFactors=FALSE,  sep=',') 
 heastr(dataplot)
 
